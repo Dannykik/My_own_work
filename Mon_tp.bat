@@ -7,7 +7,7 @@ ERTCours="Etudiant_Reussit_Tous_cours.txt"
 NBweremana="EtuBweremana.txt"
 Etu_vingt="etudiants_plus_20_ans.txt"
 echo "Ce programme vous permet de saisir votre identite. Repondez moi en remplissant votre identite svp  "
-for ((i=0;i<=0;i++))
+for ((i=0;i<=14;i++))
 do
 	echo "Etudiant numero$i"
 	echo ""
